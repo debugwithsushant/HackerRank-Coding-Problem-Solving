@@ -1,8 +1,6 @@
 // Day3 - Reverse an Array
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 class Day3{
     public List<Integer> reverseArray(List<Integer> arr) {
