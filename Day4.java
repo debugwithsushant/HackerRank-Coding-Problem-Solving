@@ -1,7 +1,6 @@
 // Day 4 - Array sum
 
 import java.util.List;
-
 class Day4 {
     public int simpleArraySum(List<Integer> ar) {
         int sum = 0;
