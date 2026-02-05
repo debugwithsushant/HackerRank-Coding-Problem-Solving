@@ -1,5 +1,7 @@
 // Day 8 - Plus Minus
 
+import java.util.List;
+
 public class Day8 {
     public void plusMinus (List<Integer> arr) {
         int positiveCount = 0;
