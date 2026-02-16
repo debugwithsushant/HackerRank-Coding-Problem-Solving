@@ -1,5 +1,6 @@
 // Day 19 - Migratory Birds
 
+import java.util.List;
 public class Day19 {
     public static int migratoryBirds(List<Integer> arr) {
         int[] freq = new int[arr.size()];
