@@ -1,5 +1,7 @@
 // Day 18 - Divisible Sum Pairs
 
+import java.util.List;
+
 class Day18 {
     public static int divisibleSumPairs(int n, int k, List<Integer> ar) {
         int count = 0;
